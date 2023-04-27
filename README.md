@@ -1,4 +1,7 @@
 # Response of Cayenne Pepper Growth to Different Water Regimes in Abeokuta
+
+![](intro_png.jpeg)
+
 Department of Water Resources Management and Agricultural Meteorology, 
 College of Environmental Resources Management
 
@@ -21,9 +24,16 @@ Agricultural productivity has to measure up to those countries that are presentl
 ### Description of study area 
 The experiment described in this study was conducted in a screen house at Federal University of Agriculture, Abeokuta (FUNAAB) beside the meteorological station. The study area is situated between Latitude 7° 13' 30''N and 7° 19' 00''N, Longitude 3˚ 20ˊ15ʺE and 3° 20' 15''N.  The area is has a tropical climate with distinct wet and dry seasons. During the wet season, the area is influenced by moist maritime southerly monsoon winds from the Atlantic Ocean, while the dry season is characterized by continental North Easterly harmattan winds from the Sahara Desert. The region experiences bimodal rainfall patterns, with the wettest months being April to July, followed by August to October. The annual rainfall in Abeokuta and it’s environ ranges between 1400 and 1500mm. The onset of the dry season typically begins in mid-March and reaches its peak in July, with a short break in August. The dry season typically lasts from October to March and is associated with hot weather. The screen house used in the study measures 12m by 4.1m by 2.2m (Length x width x height).
 
+**`Figure 1:` Location of the Experimental site in Federal University of Agriculture, Abeokuta within Odeda local government area in Ogun State, Nigeria**
+![](study_area.JPG)
+
 ### Experimental Procedures
 #### Cayenne Pepper Nursery
 Cayenne pepper plants need warm and sunny environment to thrive. I used a spot in my backyard with plenty of sun light throughout the day. I gathered 12 potable water sachets, perforated them at the bottom to enable filtration, I went on to fill the sachets with a mix of soil, compost and sand to improve drainage. To each sachet containing soil, I planted Cayenne pepper seed in them. I used drip irrigation system to wet the plants daily for 2 weeks.
+
+**`Figure 2:` Showing Emerging Seedlings**
+![](nursery.JPG)
+
 #### Transplanting
 Twelve (12) transparent plastic buckets (5litres each), were purchased for the purpose of this experiment. Each of these buckets was perforated at the bottom using soldering iron to enable infiltration of water through the soil out of the bucket. The top soils that filled into the buckets were obtained from the Fadama experimental site behind marble hostel, FUNAAB. These top soils were excavated from the ground by shovel, and then filtered by the use of a sieve to obtain fine top soils that have little or no clump of soil particles before been transferred to the perforated buckets. The perforated buckets containing top soil were wetted with water to field capacity and were left for a day before the desired variety of Cayenne pepper was transplanted. The perforated buckets containing the top soils were then labelled based on the treatments they underwent. The buckets were spaced 1m by 1m apart.
 
@@ -41,6 +51,9 @@ FLD |4DW |6WD
 Where:
 `FLD`- wetting every day, `2DW` - wetting every 2days, `4DW`- wetting every 4days, `6DW`- wetting every 6days
 
+**`Figure 3:` Experimental Layout**
+![](Experiment_layout.JPG)
+
 Data collection and analysis
 Three sets of data were collected;
 1.	The meteorological data involves weekly observation of relative humidity (%), air temperature (C), light intensity (cd) and soil temperature (C).
@@ -57,23 +70,47 @@ Different parameters were observed and measured during the experiment, namely;
 
 ## RESULTS AND DISCUSSION
 ### Meteorological data collected
-`Figure 1` shows the meteorological data collected during the growing season of Cayenne pepper. The temperature was highest at `6WAT` with 37 oC and was as low as 30 C in both `1WAT` and `9WAT` as the growing period started during the wet season.
 
-Keys: `T`- Temperature (C), `RH`- relative humidity (%), `LI`- Light intensity (cd), `WAT`- weeks after transplanting
+**`Figure 4:` Meteorological Data** 
+![](meteorological_data.jpg)
+
+*Keys:* `T`- Temperature (C), `RH`- relative humidity (%), `LI`- Light intensity (cd), `WAT`- weeks after transplanting
+
+`Figure 4:` shows the meteorological data collected during the growing season of Cayenne pepper. The temperature was highest at `6WAT` with 37C and was as low as 30C in both `1WAT` and `9WAT` as the growing period started during the wet season.
+* there is a strong negative correlation betweeen Relative humidity and Temperature. As `T` increases `RH` decreases
+* there is a strong positive correlation between Light intensity and Temperature. Hence as `LI` increases, so does `T`
+
 
 ### Soil temperature
-**Average soil temperature at 5cm depth in degree Celsius:** the weekly observation of soil temperature at 5cm depth of all treatments are shown in `figure 2`. 
+
+**`Figure 5:` Soil Temperature at 5cm**
+![](soil_temp_5cm.jpg)
+
+*Keys:* `TRT`- treatment,`FLD`- flooding (wetting everyday), `2DW`- wetting every 2days, `4DW`- wetting every 4days, `6DW`- wetting every 6days,
+
+**Average soil temperature at 5cm depth in degree Celsius:** the weekly observation of soil temperature at 5cm depth of all treatments are shown in `Figure 5`. 
 * Treatment `FLD` had its average soil temperature at 5cm depth range from 32.3 to 24.5.
 * `2DW` had its average soil temperature at 5cm depth range from 32.5 to 24.8
 * `4DW`ranged from 32.7 to 24.7 and `6DW` had its average soil temperature at 5cm depth range from 32.8 to 28.8.
 
-**Average soil temperature at 10cm depth in degree Celsius:** soil temperature at 10cm depth of all treatments as shown in `figure 3` was observed simultaneous as at 5cm depth.  
+**`Figure 6:` Soil Temperature at 10cm**
+![](soil_temp_10cm.jpg)
+
+*Keys:* `TRT`- treatment,`FLD`- flooding (wetting everyday), `2DW`- wetting every 2days, `4DW`- wetting every 4days, `6DW`- wetting every 6days
+
+**Average soil temperature at 10cm depth in degree Celsius:** soil temperature at 10cm depth of all treatments as shown in `Figure 6` was observed simultaneous as at 5cm depth.  
 * Treatment `FLD` had its average soil temperature at 10cm depth range from 31.3 to 24.8
 * `2DW` had its average soil temperature at 10cm depth range from 31.8 to 25
 * `4DW` ranged from 32.5 to 24.8 and `6DW` had its average soil temperature at 10cm depth range from 32.8 to 24.6.
 
 ## Growth Characteristics
-**Average Plant height:** `Figure 4` illustrates the effect of different water regimes `TRT` on the height of Cayenne pepper;  
+
+**`Figure 7:` Effect of Different Water Regimes on the Plant Height of Cayenne Pepper**
+![](plant_height.jpg)
+
+*Keys:* `TRT`- treatment,`FLD`- flooding (wetting everyday), `2DW`- wetting every 2days, `4DW`- wetting every 4days, `6DW`- wetting every 6days
+
+**Average Plant height:** `Figure 7` illustrates the effect of different water regimes `TRT` on the height of Cayenne pepper;  
 * It can be observed that the average plant height on all treatment gradually increased. The plant height at 1WAT ranges from 9.67cm in both `FLD` and `6DW`, 11.33cm in `4DW` and 18cm in `2DW`
 * Equally, the plant height at `5WAT` has mean values ranging from 18.37cm in `6DW`, 25.50cm in `4DW`, 34.67cm in `FLD` and 38.00cm in `2DW`
 * Furthermore, at `7WAT`, the mean values are 25.33cm in `6DW`, 30.33cm in `4DW` followed by 43.67cm in `FLD` and having 51.50cm in `2DW` as the highest. 
@@ -82,44 +119,84 @@ Keys: `T`- Temperature (C), `RH`- relative humidity (%), `LI`- Light intensity (
 
  Constant saturation and over saturation reduces crop growth and development especially for a crop like pepper that does not require too much water. It also promotes emission of Green House Gas (GHG), especially carbon dioxide, methane gas and nitrous oxide, one of the factors in climate change that increases global warming. The emission of GHG has been reported to be responsible for over 80% of enhanced global warming (Pathak. et al., 2005).
 
-**Average number of leaves:** The average number of leaves shown in the `Figure 5` indicates that significant effect of different water regimes `TRT` on Cayenne pepper. 
+**`Figure 8:` Effect of Different Water Regimes on the Number of Leaves of Cayenne Pepper**
+![](number_of_leaf.jpg)
+
+*Keys:* `TRT`- treatment,`FLD`- flooding (wetting everyday), `2DW`- wetting every 2days, `4DW`- wetting every 4days, `6DW`- wetting every 6days
+
+**Average number of leaves:** The average number of leaves shown in the `Figure 8` indicates that significant effect of different water regimes `TRT` on Cayenne pepper. 
 * Treatment `6DW` had its average number of leaves range from 10 to 79
 * Treatment `2DW` had its range from 12 to 152, `4DW` had its range from 8 to 187 while `FLD` had 9 to 228
 
 Under well-watered conditions, photosynthesis with chlorophyll brings out the lush green and radiant coloration of leaves and its width is a function of nutrients and water availability for uptake from the root zones (Akinbile, 2010). 
 
+**`Figure 9:` Effect of Different Water Regimes on the Number of Leaves of Cayenne Pepper**
+![](leaf_area.jpg)
+
+*Keys:* `TRT`- treatment,`FLD`- flooding (wetting everyday), `2DW`- wetting every 2days, `4DW`- wetting every 4days, `6DW`- wetting every 6days
+
 **Average Leaf Area:** there was a significant but gradual increase in leaf area in all treatment. 
-* `Figure 6` shows that treatment `2DW` had the highest leaf area.
+* `Figure 9` shows that treatment `2DW` had the highest leaf area.
 * Treatment `2DW` had its average leaf area range from 9 to 46. 
 * Treatment `FLD` had its average leaf area range from 5 to 32
 * `4DW` had its range from 4 to 22 while `6DW` had the least average leaf area, which range from 5 to 19.
 
 Drought condition led to excess salts premature in older leaves consequently leaf senescence occurred and photosynthetic leaf area of a plant resultantly decreased (Yang et al., 2008).
 
-## Comparative Analysis of Yield Characteristics of all Treatments
+## Comparative Analysis of Yield Characteristics per Harvest of all Treatments
 Cayenne pepper yield: the harvesting of Cayenne pepper begun `9WAT` and was done on a weekly basis for 3 weeks resulting in three harvest. The fruits of each treatment was harvested, measured, and weighed separately. The average yield characteristics (number of fruits, fruit length, fruit diameter, fruit weight) of all treatments were determined and compared to each other from other treatments. 
 
-**First Harvest:**
- `Figure 7` shows comparison of the yield characteristics of the first harvest of all treatment at `9WAT`.
-* it can be seen that treatment `4DW` had no fruit at `9WAT`.
+### First Harvest
+
+**`Figure 10:` Effect of Different Water Regimes on Yield Characteristics of Cayenne Pepper for First Harvest**
+![](first_harvest_yield.jpg)
+
+*Keys:*
+`FD`- fruit diameter, `FL`- fruit lenght, `FW`- fruit weight, `NF`- number of fruits, `TRT`- treatments, `FLD`- flooding(wetting everyday), `2DW`- wetting every 2days, `4DW`- wetting every 4days, `6DW`- wetting every 6days
+
+ `Figure 10` shows comparison of the yield characteristics of the first harvest of all treatment at `9WAT`.
+* It can be seen that treatment `4DW` produced no fruit at `9WAT`.
 * The average fruit diameter range from 1.00cm in `FLD` was the highest, closely followed by 0.83cm in `2DW` and 0.37 in `6DW` was the least. 
 * The average fruit diameter range from 1.00cm in `FLD` was the highest, closely followed by 0.83cm in `2DW` and 0.37 in `6DW` was the least. 
 * The fruit weight mean values range from 2.12g in `6DW`, 4.60g in `2DW` and 5.31g in `FLD`. *Furthermore, the number of fruits mean values range from 3.33 in `2DW` to 3.00 in `FLD` and lastly 1.00 in `6DW`.
 * It can be deduced that `FLD` flourish best in terms of yield characteristics, which was slightly better than `2DW`, and the least was `6DW`.
 
-**Second Harvest:** 
-The comparison of yield characteristics off all treatments are presented in `figure 8`. 
+### Second Harvest 
+
+**`Figure 11:` Effect of Different Water Regimes on Yield Characteristics of Cayenne Pepper for Second Harvest**
+![](second_harvest_yield.jpg)
+
+*Keys:*
+`FD`- fruit diameter, `FL`- fruit lenght, `FW`- fruit weight, `NF`- number of fruits, `TRT`- treatments, `FLD`- flooding(wetting everyday), `2DW`- wetting every 2days, `4DW`- wetting every 4days, `6DW`- wetting every 6days
+
+The comparison of yield characteristics off all treatments are presented in `figure 11`. 
 * The fruit diameter, the mean values range from 1.47cm in `2DW` which was the highest followed by 1.10cm in `FLD`, `4DW` and `6DW` were 0.22cm and 28cm respectively. 
 * As for the fruit length, the mean values range from 9.67cm in `FLD`, which was the longest followed by 7.13 in `2DW` followed by 2.88cm in `6DW` and the least, was 1.83 in `4DW`.
 * The fruit weight had its mean value ranging from 5.03g in `FLD`, 4.34g in `2DW`, 1.17g in `6DW` and 0.56g in `4DW`. 
 * Finally, the number of fruits had it mean values range from 25 in `FLD`, which was by far the highest, followed by 9.67 followed by 2.33 I `4DW` and 0.67 in `6DW`. 
 * In term of yield characteristic, `FLD` out performed all other treatments which indicates that FLD thrived best once more in terms of yield characteristics followed by `2DW` with `4DW` and `6DW` significantly lower.
 
-**Third Harvest:** 
-`Figure 9` illustrates the mean values of yield characteristic (fruit diameter, fruit weight, fruit length and number of fruits) of all treatments for the third harvest. There was significant differences in fruit diameter, fruit length, fruit weight and number of fruits in all treatments for the third harvest. 
+### Third Harvest 
+
+**`Figure 12:` Effect of Different Water Regimes on Yield Characteristics of Cayenne Pepper for First Harvest**
+![](third_harvest_yield.jpg)
+
+*Keys:*
+`FD`- fruit diameter, `FL`- fruit lenght, `FW`- fruit weight, `NF`- number of fruits, `TRT`- treatments, `FLD`- flooding(wetting everyday), `2DW`- wetting every 2days, `4DW`- wetting every 4days, `6DW`- wetting every 6days
+
+`Figure 12` illustrates the mean values of yield characteristic (fruit diameter, fruit weight, fruit length and number of fruits) of all treatments for the third harvest. There was significant differences in fruit diameter, fruit length, fruit weight and number of fruits in all treatments for the third harvest. 
 * The highest fruit diameter was recorded in `2DW` as 1.00cm followed by 0.80cm in `4DW`, 0.70cm in `FLD` and 0.23cm in `6DW`. 
 * The fruit length ranged from 5.40cm in `2DW`, 5.13 in `FLD`, 4.90 in `4DW` and 1.33 in `6DW`. 
 * The fruit weight mean values ranged from 5.73g in `FLD`, which was slightest higher than 4.17g in `2DW` followed by a significant decline to 1.58g in `4DW` and 1.25g in `6DW`.
+
+## Similarities between Yield Characteristics per Treatment
+**`Figure 13:` Correlation Table of Average Yield per Treatment**
+![](correlation_between_treatments.jpg)
+
+*Keys:* `TRT`- treatments, `FLD`- flooding(wetting everyday), `2DW`- wetting every 2days, `4DW`- wetting every 4days, `6DW`- wetting every 6days
+
+* The correlation table above simply tells us that there is a close similarity between `FLD` and `2DW` with regard to their yield characteristics.
+* Generally, `FLD` out performed all other treatments especially in terms of number of fruits. As a farmer, this is a very important factor as more fruits lead to increased productivity and profitability. Treatment `FLD` was closely followed by `2DW` while `4DW` and `6DW` performed poorly in terms of yield characteristics.
 
 ## CONCLUSION
 The study revealed that Cayenne pepper responds significantly to different water regimes, with the `2DW` treatment showing the best results in terms of plant height, leaf area, and fruit diameter, closely followed by `FLD`, which demonstrated the best results in fruit weight, fruit length, and number of fruits. Additionally, it can be deduced that `FLD` and `2DW` yield characteristics outperformed those of `4DW` and `6DW`. However, there was a decline in agronomic parameters, with `FLD` and `2DW` treatments showing a slight difference, and a significant decline observed in `4DW` followed by `6DW`. Similarly, the yield characteristics showed a significant decrease due to the different water regimes.
@@ -129,4 +206,22 @@ To achieve maximum yield and minimize water use, a combination of the two treatm
 
 In conclusion, further research should be conducted on other plants to determine the effect of different water regimes on them. This information will be crucial in improving water management practices, combined with proper irrigation scheduling, to achieve high crop yields with optimal water application.
 
+## REFERENCES
+* Akinbile, C.O., 2010. Behavioral pattern of upland rice agronomic parameters to variable water supply in Nigeria. J. Plant Breed. Crop Sci., 2: 73-80.
+*FAO (2003): “The State of Food Insecurity in the World”. Food and Agriculture Organization, Roma, Italy. Available online at URL: www.fao.org.
+*Kumar, R., N, Dwidevi., R.K. Singh., V.P. Rai and M. Singh, (2011). A review on molecular characterization on pepper for capsaicin and oleoresin. Intl. J. Plant. Breeding. Genet., 5; 99-110.
+* Nadeem, M.; Li, J.; Yahya, M.;Wang, m.; Ali, A.; Cheng, A.; Wang, X.; Ma, C. Grain legumes and fear of salt stress: Focus on Mechanisnms and management strategies. Int. J. Mol. Sci. 2019, 20, 799.
+* Nadeem, M.S.; Ahmad, M.; Ahmad, Z.; Javaid, A.; Ashraf, M. The role of mycorrrhizae and plant growt promoting rhizobacteria (PGPR) in improving crop productivity under stressful environments. Biotechnol. Adv. 2011, 32, 429-448.
+* Pathak, H., C. Li and R. Wassmann, 2005. Greenhouse gas emission from Indian rice fields: Calibration and upscaling using DNDC model. Biogeosci. Disc, 2; 77-102.
+* Plumecocq.G., Debril, T. Duru.  M. Magrini MB Sarthou, LP and Therond, O. 04) The Purality of Values in Sustainable Aoriculture Models: Diverse Lock-in and Co-evolution Patterns.  Ecology and Society, Vol.  23 (1): 21.
+* Sanusi, LS. (2010). Growth Prospects for Nigeria Economy, Convocation Play Delivered at the Igbinedion University 8 convocation ceremony, Okada, Edo state.
+* Yang, C. W.; P. Wang; C. Y. Li; D. C. Shi and D. L. Wang (2008). Comparison of effects of salt and alkali stresses on the growth and photosynthesis of wheat. Photosynthetica, 46: 107-114.
 
+## APPENDICES
+![](FLD_yield.JPG)
+Plate 1: `FLD` Replicate 3 Yield
+
+
+
+![](yield.JPG)
+Plate 2: A basket of freshly picked Cayenne Pepper
