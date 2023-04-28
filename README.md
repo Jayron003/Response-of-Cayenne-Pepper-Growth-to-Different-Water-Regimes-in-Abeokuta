@@ -8,8 +8,9 @@ College of Environmental Resources Management
 Federal University of Agriculture, Abeokuta, Ogun state, Nigeria.
 
 *Author: Udechukwu Jerry Chinedu*
+*Supervisor: Dr. A. A. Makinde* 
 
-`July, 2021`
+`August, 2021`
 
 ## ABSTRACT	
 Climate change has brought about a frightening new aspect to the already existing challenge of global food security, resulting in food scarcity due to water shortage, especially in improvised countries. Consequently, the need for effective irrigation scheduling to enhance yield, particularly in the pepper industry, has become essential. Thus, the growth and water use pattern of Cayenne pepper were evaluated under various water regimes. The study was carried out at the Federal University of Agriculture, Abeokuta (FUNAAB), in a screen house behind the College of Environmental Resources Management (COLERM). The main aim was to investigate the impact of different water regimes o the growth parameters and yield characteristics of Cayenne pepper in Abeokuta. The experimental design employed was the Completely Randomized Design (CRD) with four treatments and three replicates (4 x 3), where treatments were randomly assigned to subjects. The Cayenne peppers that were underwent individual treatments, with different water regimes as follows: FLD - wetting every day, 2DW- wetting every two days, 4DW - wetting every four days, 6DW - wetting every six days. The findings indicated that Cayenne pepper exhibited varying responses to different water regimes. Regularly monitored agronomic parameters included the average: plant height, number of leaves and leaf area, and the meteorological parameters observed in the screen house environment were air temperature and soil temperature (at depth 5cm and 10cm), relative humidity and light intensity. The results were subjected to statistical analysis. The total yield values in all treatments were 122, 66, 34 and 14 in FLD, 2DW, 4DW and 6DW respectively, indicating that FLD performed better in terms of total yield. The number of leaf mean values gradually increase along the weeks, there were significant increase in Cayenne pepper number of leaf across all treatment. 1WAT had mean values ranging at 11.67 in 2DW, 9.67 in 6DW and 8.67 in FLD slightly more than 8.33 in 4DW. Finally, at 10WAT the mean values ranged from 228.00 in FLD, 187 in 4DW, 152.33 in 2DW and the least was 78.67 in 6DW. The study showed that water use patterns had a significant impact on crop output (yield characteristics) and growth characteristics. The best performance was observed under FLD and 2DW compared to 4DW and 6DW. Hence, it is recommended to use a  combination of water regimes at different strategic point as a good water management practice for the production of Cayenne pepper.
@@ -89,9 +90,9 @@ Different parameters were observed and measured during the experiment, namely;
 *Keys:* `TRT`- treatment,`FLD`- flooding (wetting everyday), `2DW`- wetting every 2days, `4DW`- wetting every 4days, `6DW`- wetting every 6days,
 
 **Average soil temperature at 5cm depth in degree Celsius:** the weekly observation of soil temperature at 5cm depth of all treatments are shown in `Figure 5`. 
-* Treatment `FLD` had its average soil temperature at 5cm depth range from 32.3 to 24.5.
-* `2DW` had its average soil temperature at 5cm depth range from 32.5 to 24.8
-* `4DW`ranged from 32.7 to 24.7 and `6DW` had its average soil temperature at 5cm depth range from 32.8 to 28.8.
+* Treatment `FLD` had its average soil temperature at 5cm depth range from 32.3C to 24.5C.
+* `2DW` had its average soil temperature at 5cm depth range from 32.5cm to 24.8cm
+* `4DW`ranged from 32.7C to 24.7C and `6DW` had its average soil temperature at 5cm depth range from 32.8C to 28.8C.
 
 **`Figure 6:` Soil Temperature at 10cm**
 ![](soil_temp_10cm.jpg)
@@ -99,9 +100,9 @@ Different parameters were observed and measured during the experiment, namely;
 *Keys:* `TRT`- treatment,`FLD`- flooding (wetting everyday), `2DW`- wetting every 2days, `4DW`- wetting every 4days, `6DW`- wetting every 6days
 
 **Average soil temperature at 10cm depth in degree Celsius:** soil temperature at 10cm depth of all treatments as shown in `Figure 6` was observed simultaneous as at 5cm depth.  
-* Treatment `FLD` had its average soil temperature at 10cm depth range from 31.3 to 24.8
-* `2DW` had its average soil temperature at 10cm depth range from 31.8 to 25
-* `4DW` ranged from 32.5 to 24.8 and `6DW` had its average soil temperature at 10cm depth range from 32.8 to 24.6.
+* Treatment `FLD` had its average soil temperature at 10cm depth range from 31.3C to 24.8C
+* `2DW` had its average soil temperature at 10cm depth range from 31.8C to 25C
+* `4DW` ranged from 32.5C to 24.8C and `6DW` had its average soil temperature at 10cm depth range from 32.8C to 24.6C.
 
 ## Growth Characteristics
 
@@ -114,7 +115,7 @@ Different parameters were observed and measured during the experiment, namely;
 * It can be observed that the average plant height on all treatment gradually increased. The plant height at 1WAT ranges from 9.67cm in both `FLD` and `6DW`, 11.33cm in `4DW` and 18cm in `2DW`
 * Equally, the plant height at `5WAT` has mean values ranging from 18.37cm in `6DW`, 25.50cm in `4DW`, 34.67cm in `FLD` and 38.00cm in `2DW`
 * Furthermore, at `7WAT`, the mean values are 25.33cm in `6DW`, 30.33cm in `4DW` followed by 43.67cm in `FLD` and having 51.50cm in `2DW` as the highest. 
-* Finally, at `10WAT`, the least mean value was 35.00cm in `6DW`, followed by 47.33cm in `4DW`, followed by 59.33cm in `FLD` and the highest was 69.33 in `2DW`. 
+* Finally, at `10WAT`, the least mean value was 35.00cm in `6DW`, followed by 47.33cm in `4DW`, followed by 59.33cm in `FLD` and the highest was 69.33cm in `2DW`. 
 * Based on the average plant height, it can be deduced that Cayenne pepper thrives best in terms of plant height under the water regime `TRT` of `2DW` and `6DW` had the least growth.
 
  Constant saturation and over saturation reduces crop growth and development especially for a crop like pepper that does not require too much water. It also promotes emission of Green House Gas (GHG), especially carbon dioxide, methane gas and nitrous oxide, one of the factors in climate change that increases global warming. The emission of GHG has been reported to be responsible for over 80% of enhanced global warming (Pathak. et al., 2005).
@@ -135,13 +136,13 @@ Under well-watered conditions, photosynthesis with chlorophyll brings out the lu
 
 *Keys:* `TRT`- treatment,`FLD`- flooding (wetting everyday), `2DW`- wetting every 2days, `4DW`- wetting every 4days, `6DW`- wetting every 6days
 
-**Average Leaf Area:** there was a significant but gradual increase in leaf area in all treatment. 
+**Average Leaf Area:** there was a significant but gradual increase in leaf area in all treatment (unit; centimeter square). 
 * `Figure 9` shows that treatment `2DW` had the highest leaf area.
 * Treatment `2DW` had its average leaf area range from 9 to 46. 
 * Treatment `FLD` had its average leaf area range from 5 to 32
 * `4DW` had its range from 4 to 22 while `6DW` had the least average leaf area, which range from 5 to 19.
 
-Drought condition led to excess salts premature in older leaves consequently leaf senescence occurred and photosynthetic leaf area of a plant resultantly decreased (Yang et al., 2008).
+Drought condition lead to excess salts premature in older leaves consequently leaf senescence occurr and photosynthetic leaf area of a plant resultantly decrease (Yang et al., 2008).
 
 ## Comparative Analysis of Yield Characteristics per Harvest of all Treatments
 Cayenne pepper yield: the harvesting of Cayenne pepper begun `9WAT` and was done on a weekly basis for 3 weeks resulting in three harvest. The fruits of each treatment was harvested, measured, and weighed separately. The average yield characteristics (number of fruits, fruit length, fruit diameter, fruit weight) of all treatments were determined and compared to each other from other treatments. 
@@ -171,7 +172,7 @@ Cayenne pepper yield: the harvesting of Cayenne pepper begun `9WAT` and was done
 
 The comparison of yield characteristics off all treatments are presented in `figure 11`. 
 * The fruit diameter, the mean values range from 1.47cm in `2DW` which was the highest followed by 1.10cm in `FLD`, `4DW` and `6DW` were 0.22cm and 28cm respectively. 
-* As for the fruit length, the mean values range from 9.67cm in `FLD`, which was the longest followed by 7.13 in `2DW` followed by 2.88cm in `6DW` and the least, was 1.83 in `4DW`.
+* As for the fruit length, the mean values range from 9.67cm in `FLD`, which was the longest followed by 7.13cm in `2DW` followed by 2.88cm in `6DW` and the least, was 1.83cm in `4DW`.
 * The fruit weight had its mean value ranging from 5.03g in `FLD`, 4.34g in `2DW`, 1.17g in `6DW` and 0.56g in `4DW`. 
 * Finally, the number of fruits had it mean values range from 25 in `FLD`, which was by far the highest, followed by 9.67 followed by 2.33 I `4DW` and 0.67 in `6DW`. 
 * In term of yield characteristic, `FLD` out performed all other treatments which indicates that FLD thrived best once more in terms of yield characteristics followed by `2DW` with `4DW` and `6DW` significantly lower.
@@ -186,7 +187,7 @@ The comparison of yield characteristics off all treatments are presented in `fig
 
 `Figure 12` illustrates the mean values of yield characteristic (fruit diameter, fruit weight, fruit length and number of fruits) of all treatments for the third harvest. There was significant differences in fruit diameter, fruit length, fruit weight and number of fruits in all treatments for the third harvest. 
 * The highest fruit diameter was recorded in `2DW` as 1.00cm followed by 0.80cm in `4DW`, 0.70cm in `FLD` and 0.23cm in `6DW`. 
-* The fruit length ranged from 5.40cm in `2DW`, 5.13 in `FLD`, 4.90 in `4DW` and 1.33 in `6DW`. 
+* The fruit length ranged from 5.40cm in `2DW`, 5.13cm in `FLD`, 4.90cm in `4DW` and 1.33cm in `6DW`. 
 * The fruit weight mean values ranged from 5.73g in `FLD`, which was slightest higher than 4.17g in `2DW` followed by a significant decline to 1.58g in `4DW` and 1.25g in `6DW`.
 
 ## Similarities between Yield Characteristics per Treatment
