@@ -22,6 +22,18 @@ Water required by crops is supplied by nature in the form of precipitation, but 
 Pepper is a vital commercial crop, cultivated for vegetable, spice, and value-added processed products (Kumar and Rai, 2005). Besides vitamins A and C, the fruits contain mixtures of antioxidants notably carotenoids, ascorbic acid, flavonoids and polyphenols (Nadeem et al 2019). This makes it a very important constituent of many foods, adding flavor, color and pungency and, hence, an important source of nutrition for humans. Peppers can be used whale, chopped or m various processed forms such as fresh, dried and ground into powder (with or without the seeds), or as an extract. In most advanced countries, the fresh fruits can be processed into paste and bottled for sale in supermarkets. Cayenne pepper, being a very rich source of vitamins A, C, B6, folic acid and beta-carotene, provides excellent nutrition for humans (Nadeem et al., 2011).  Antioxidant compounds present in the different colors (green, yellow, orange, and red) in sweet bell peppers give them an antioxidative potential, which helps protect the body from oxidative damage induced by free radicals when consumed. This reduces the risk of cardiovascular diseases, asthma, sore throat, headache and diabetes.  
 Agricultural productivity has to measure up to those countries that are presently rated as economic giant of the world.  Hence, the agricultural sector of our economy will need a new and effective technology with ideas that will continually improve the productivity, profitability and sustainability of our country major farming practices (Sanusi, 2010: Plumecocq el al., 2018).  One of the greatest setbacks in vegetable production in Nigeria is water shortage during the dry season, as well as farmers' inability to accurately predict the amount of water necessary during the growing season. In light of this, the research looked into the reaction of Cayenne pepper to various water regimes, as weather patterns are unpredictable.
 
+## Problem statement
+Due to the inconsistent nature of rainfall and the unpredictability of the weather, there is need for consistent or continuous work on identifying the vegetable variety with resistance to drought. This is done with the mind of ensuring food sustainability in Nigeria.
+
+## Justification of study
+One of the greatest setbacks in vegetable production in Nigeria is water shortage during the dry season, as well as farmers' inability to accurately predict the amount of water necessary during the growing season. In light of this, the research looked into the reaction of Cayenne pepper to various water regimes, as weather patterns are unpredictable.
+
+## Objectives of study
+The overall goal of this research is to determine the effects of various water regimes on Cayenne pepper agronomic characteristics in Abeokuta, Ogun state using Federal University of Agriculture, Abeokuta as case study.
+
+## Specific Objective
+The specific objectives of the study were to; monitor the micro-climatic condition within the screen house environment on Cayenne pepper, assess the effect of different water regimes on the growth parameters of Cayenne pepper, and to assess the impact of different water regimes on the yield characteristic of Cayenne pepper.
+
 ## MATERIAL AND METHODS
 ### Description of study area 
 The experiment described in this study was conducted in a screen house at Federal University of Agriculture, Abeokuta (FUNAAB) beside the meteorological station. The study area is situated between Latitude 7° 13' 30''N and 7° 19' 00''N, Longitude 3˚ 20ˊ15ʺE and 3° 20' 15''N.  The area is has a tropical climate with distinct wet and dry seasons. During the wet season, the area is influenced by moist maritime southerly monsoon winds from the Atlantic Ocean, while the dry season is characterized by continental North Easterly harmattan winds from the Sahara Desert. The region experiences bimodal rainfall patterns, with the wettest months being April to July, followed by August to October. The annual rainfall in Abeokuta and it’s environ ranges between 1400 and 1500mm. The onset of the dry season typically begins in mid-March and reaches its peak in July, with a short break in August. The dry season typically lasts from October to March and is associated with hot weather. The screen house used in the study measures 12m by 4.1m by 2.2m (Length x width x height).
@@ -81,7 +93,7 @@ Different parameters were observed and measured during the experiment, namely;
 `Figure 4:` shows the meteorological data collected during the growing season of Cayenne pepper. The temperature was highest at `6WAT` with 37C and was as low as 30C in both `1WAT` and `9WAT` as the growing period started during the wet season.
 * there is a strong negative correlation betweeen Relative humidity and Temperature. As `T` increases `RH` decreases
 * there is a strong positive correlation between Light intensity and Temperature. Hence as `LI` increases, so does `T`
-
+> For more details on the meteorological data analysis, click [here](Meteorological_data.ipynb)
 
 ### Soil temperature
 
@@ -104,6 +116,7 @@ Different parameters were observed and measured during the experiment, namely;
 * Treatment `FLD` had its average soil temperature at 10cm depth range from 31.3C to 24.8C
 * `2DW` had its average soil temperature at 10cm depth range from 31.8C to 25C
 * `4DW` ranged from 32.5C to 24.8C and `6DW` had its average soil temperature at 10cm depth range from 32.8C to 24.6C.
+> For more details on the soil temperature analysis, click [here](Soil_temp_analysis.ipynb)
 
 ## Growth Characteristics
 
@@ -144,6 +157,7 @@ Under well-watered conditions, photosynthesis with chlorophyll brings out the lu
 * `4DW` had its range from 4 to 22 while `6DW` had the least average leaf area, which range from 5 to 19.
 
 Drought condition lead to excess salts premature in older leaves consequently leaf senescence occurr and photosynthetic leaf area of a plant resultantly decrease (Yang et al., 2008).
+> For more details on the growth characteristics analysis, click [here](Agronomic_analysis.ipynb)
 
 ## Comparative Analysis of Yield Characteristics per Harvest of all Treatments
 Cayenne pepper yield: the harvesting of Cayenne pepper begun `9WAT` and was done on a weekly basis for 3 weeks resulting in three harvest. The fruits of each treatment was harvested, measured, and weighed separately. The average yield characteristics (number of fruits, fruit length, fruit diameter, fruit weight) of all treatments were determined and compared to each other from other treatments. 
@@ -190,6 +204,7 @@ The comparison of yield characteristics off all treatments are presented in `fig
 * The highest fruit diameter was recorded in `2DW` as 1.00cm followed by 0.80cm in `4DW`, 0.70cm in `FLD` and 0.23cm in `6DW`. 
 * The fruit length ranged from 5.40cm in `2DW`, 5.13cm in `FLD`, 4.90cm in `4DW` and 1.33cm in `6DW`. 
 * The fruit weight mean values ranged from 5.73g in `FLD`, which was slightest higher than 4.17g in `2DW` followed by a significant decline to 1.58g in `4DW` and 1.25g in `6DW`.
+> For more details on the yield characteristics analysis, click [here](Yield_Characteristics_Analysis.ipynb)
 
 ## Similarities between Yield Characteristics per Treatment
 **`Figure 13:` Correlation Table of Average Yield per Treatment**
